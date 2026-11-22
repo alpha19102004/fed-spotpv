@@ -1,6 +1,5 @@
 <div align="center">
 
-# Fed SPOT-PV
 
 ### Personalized Federated Learning via Similarity-Based Encoder Aggregation for PV Power Forecasting
 
